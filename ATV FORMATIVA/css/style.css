@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    border: 2px color black;
+}
+th,td{
+    border: 2px color black;
+}
+th {
+    background-color: blue;
+}
+td{
+    text-align: center;
+}
+
+
+
+
